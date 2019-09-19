@@ -14,7 +14,7 @@ class LineObject(object):
 
     def __init__(self):
         if self.isLogin == True:
-            self.log("[%s] : Login success" % self.profile.displayName)
+            self.log("[%s] :                                        L O G I N   S U K S E S S ... A Y O   T E R I A K   MEEOOONGG" % self.profile.displayName)
 
     """Group"""
 
